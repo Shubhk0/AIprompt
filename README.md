@@ -160,6 +160,10 @@ You'll need API keys from the providers you want to use:
 ./ai_prompt.py -p openrouter -m anthropic/claude-3-opus-20240229 "Suggest five book recommendations"
 ```
 
+## if you want to use it as llm command.
+```bash
+alias llm="python3  <path>/AIprompt/ai_prompt.py"
+```
 ## Troubleshooting
 
 ### API Key Issues
