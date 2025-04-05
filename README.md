@@ -185,3 +185,8 @@ If you encounter rate limit errors, wait a few minutes before trying again or sw
 ## License
 
 This project is open source and available under the MIT License.
+
+## 🤝 Contributing
+
+We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md) and [Code of Conduct](CODE_OF_CONDUCT.md) before submitting a pull request.
+
